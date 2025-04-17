@@ -36,10 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=1EFC98F9-52A8-4E63-91EB-F77C1E6CE427
-VaultGUID=A4550C00-724A-4DA4-99B5-2B0DC4570215
+ManagedProjectGUID=
+VaultGUID=
 ReleaseVaultName=AES on LJ-AZ-064
-ItemGUID=1EFC98F9-52A8-4E63-91EB-F77C1E6CE427
+ItemGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -261,7 +261,7 @@ ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
-ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ContentTypeGUID=
 ConfigurationType=Source
 
 [Configuration2]
@@ -273,7 +273,7 @@ Variant=[No Variations]
 OutputJobsCount=1
 DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=FABRICATION.OutJob
-ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ContentTypeGUID=
 ConfigurationType=Fabrication
 
 [Configuration3]
@@ -285,7 +285,7 @@ Variant=[No Variations]
 OutputJobsCount=1
 DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=ASSEMBLY.OutJob
-ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ContentTypeGUID=
 ConfigurationType=Assembly
 
 [Configuration4]
@@ -297,7 +297,7 @@ Variant=Sensor_Data_Logger_Without_Headers
 OutputJobsCount=1
 DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=ASSEMBLY.OutJob
-ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ContentTypeGUID=
 ConfigurationType=Assembly
 
 [Generic_SimulationProfiles]
